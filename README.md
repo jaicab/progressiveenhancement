@@ -1,9 +1,9 @@
 # Progressive Enhancement.
 A site for all things progressively enhanced. - [https://progressiveenhancement.org](https://progressiveenhancement.org)
 
-If you have any resources that you have found insteresting related with **progressive enhancement**, please [submit them using this form](http://goo.gl/forms/X5fy7xpA0a), which can also be found embedded on the site.
-
 I want this to be the place where people go to learn about progressive enhancement. For now categories are articles, examples, tools, and guidelines, but this could change. After [#enhanceconf](https://twitter.com/hashtag/EnhanceConf?src=hash&lang=es) I will process the data and PRs sent, recategorise it and redesign the site (this is just a placeholder).
+
+If you have any resources that you have found insteresting related with **progressive enhancement**, please [submit them using this form](http://goo.gl/forms/X5fy7xpA0a), which can also be found embedded on the site.
 
 You can also create new files as PRs on GitHub and therefore get [proper credit](https://github.com/jaicab/progressiveenhancement/graphs/contributors) for your help. This is the pattern for a single resource.
 
