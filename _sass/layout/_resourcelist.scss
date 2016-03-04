@@ -10,6 +10,7 @@
 	.l-resource-list {
 		overflow: hidden;
 		display: flex;
+		flex-wrap: wrap;
 		padding: 1em;
 
 		.c-resource {
