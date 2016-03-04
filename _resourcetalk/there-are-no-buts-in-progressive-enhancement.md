@@ -1,6 +1,6 @@
 ---
 title: "There are no 'buts' in progressive enhancement"
-link: https://vimeo.com/118146193
+link: https://vimeo.com/144979022
 speaker: Aaron Gustafason
 conference: Øredev Conference
 ---
