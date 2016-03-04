@@ -18,12 +18,15 @@ site: A List Apart
 An explanation of Progressive Enhancement.
 ```
 
-Site is optional. Copy than, then click on one of these links submit resources quickly using the web interface:
+`site` is optional, but please fill in the others. Copy than, then click on one of these links submit resources quickly using the web interface:
 
-- [Article](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourcearticle)
-- [Example](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourceexample)
-- [Tool](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourcetool)
-- [Guideline](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourceguideline)
-- [Other](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourceother)
+
+- [Article](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourcearticle): For articles that talk about progressive enhancement, the good and the bad.
+- [Example](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourceexample): For tutorials/code samples/specific articles applied to a pattern where PE was applied.
+- [Tool](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourcetool): A tool/service that helped you enhance the experience or that it's built with that foundation.
+- [Guideline](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourceguideline): A set of rules that define how to approach work with PE, maybe from a company or a person's site.
+- [Other](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourceother): Anything that doesn't apply to the others. Books, podcasts, etc. 
+
+I will try to go through some PRs while at the conference!
 
 If you want to contribute even more (thanks!), this site is built on Jekyll so feel free to open an issue, send a PR or tweet me at [@jaicab_](https://twitter.com/jaicab_).
