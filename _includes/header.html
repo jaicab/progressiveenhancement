@@ -1,0 +1,17 @@
+<header class="l-header l-header--main" role="banner">
+  <a href="{{ site.url }}" class="c-logo">
+    <img src="/images/pe.svg" alt="Progressive Enhancement logo">
+  </a>
+
+  <nav role="navigation" class="l-nav l-nav--main">
+  {% for link in site.navigation %}
+      {% assign current = nil %}
+      {% if page.url contains link.url %}
+            {% assign current = 'current' %}
+        {% endif %}
+        <a href="{{ link.url }}" class="{{ current }}" title="{{ link.desc }}">{{ link.title }}</a>
+  {% endfor %}     
+  </nav>
+
+  <h1 class="l-header__title">{{ page.title }}</h1>
+</header>

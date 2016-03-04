@@ -1,0 +1,25 @@
+
+
+html {
+  background: $color-bg;
+  color: $color-text;
+  font-size: 1em;
+  line-height: 1;
+  letter-spacing: -.02em;
+}
+
+body {
+  font-family: $font-primary;
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: $font-secondary;
+  line-height: 1;
+  margin: 0;
+  letter-spacing: -0.02em;
+}
+
+abbr[title] {
+  border-bottom: 1px dotted;
+}

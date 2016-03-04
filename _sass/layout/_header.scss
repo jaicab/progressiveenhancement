@@ -1,0 +1,31 @@
+
+.l-header {
+}
+
+.l-header--main {
+	background: $color-bg-header;
+	padding: 1em;
+}
+
+.l-header__title {
+	color: $color-brand;
+	font-size: 3em;
+	line-height: 1;
+	padding-top: .75em;
+	clear: both;
+}
+
+@include mq($from: medium) {
+	.l-header--main {
+		padding: 1em 2em 2em;
+	}
+	.l-header__title {
+		font-size: 5em;
+	}
+	.c-logo {
+		float: left;
+	}
+	.l-nav--main {
+		float: right;
+	}
+}

@@ -1,0 +1,44 @@
+title: Progressive Enhancement
+description: >
+  Where all things are progressively enhanced
+baseurl: ""
+url: "https://progressiveenhancement.org"
+
+# Build settings
+markdown: kramdown
+
+navigation:
+ - title: Articles
+   url: /articles/
+   desc: ""
+ - title: Examples
+   url: /examples/
+   desc: ""
+ - title: Tools
+   url: /tools/
+   desc: ""
+ - title: Guidelines
+   url: /guidelines/
+   desc: ""
+ - title: Other
+   url: /others/
+   desc: ""
+
+
+## Collections
+collections:
+  - resourcearticle
+  - resourceexample
+  - resourcetool
+  - resourceguideline
+
+# Build settings
+permalink: pretty
+exclude:
+  - README.md
+
+
+#Gems
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap

@@ -1,0 +1,49 @@
+.l-resource-list {
+	.c-resource {
+		& + & {
+			border-top: .1em solid $color-bg;
+		}
+	}
+}
+
+@include mq($from: medium) {
+	.l-resource-list {
+		overflow: hidden;
+		display: flex;
+		padding: 1em;
+
+		.c-resource {
+			width: 50%;
+			float: left;
+			flex: 0 0 auto;
+		}
+	}
+}
+
+@include mq($from: big) {
+	.l-resource-list {
+		.c-resource {
+			width: 33.33%;
+		}
+	}
+}
+
+
+@include mq($from: bigx) {
+	.l-resource-list {
+		.c-resource {
+			width: 25%;
+		}
+	}
+}
+
+
+
+@include mq($from: wide) {
+	.l-resource-list {
+		.c-resource {
+			width: 20%;
+		}
+	}
+}
+

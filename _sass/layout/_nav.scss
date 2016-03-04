@@ -1,0 +1,38 @@
+
+.l-nav--main {
+  font-size: 1.2em;
+  
+  a {
+    display: inline-block; 
+    color: $color-brand;
+    padding: 1em 1em 0 0;
+    
+    
+    &.current {
+      text-decoration: underline;
+    }
+    
+    &:hover, &:focus {
+      text-decoration: underline;
+    }
+    
+    &:not(:last-child) {
+      &::after {
+      }
+    }
+  }
+}
+
+@include mq($from: medium) {
+  .l-nav--main {
+    font-size: 1.3em;
+
+    a {
+      padding-top: .25em;
+    }
+  }
+}
+
+@include mq($from: big) {
+ 
+}
