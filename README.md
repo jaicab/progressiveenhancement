@@ -18,7 +18,7 @@ site: A List Apart
 An explanation of Progressive Enhancement.
 ```
 
-Site is optional. Copy than an then click on one of these links submit resources quickly using the web interface:
+Site is optional. Copy than, then click on one of these links submit resources quickly using the web interface:
 
 - [Article](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourcearticle)
 - [Example](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourceexample)
