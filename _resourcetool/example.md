@@ -1,5 +1,5 @@
 ---
-title: EnhanceJS
+title: "EnhanceJS"
 link: https://github.com/filamentgroup/enhance
 author: Filament Group
 ---

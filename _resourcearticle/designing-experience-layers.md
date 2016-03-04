@@ -1,5 +1,5 @@
 ---
-title: Designing experience layers
+title: "Designing experience layers"
 link: https://sixtwothree.org/posts/designing-experience-layers
 author: Jason Garber
 ---

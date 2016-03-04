@@ -9,7 +9,7 @@ You can also create new files as PRs on GitHub and therefore get [proper credit]
 
 ```
 ---
-title: Understanding Progressive Enhancement
+title: "Understanding Progressive Enhancement"
 link: http://alistapart.com/article/understandingprogressiveenhancement
 author: Aaron Gustafson
 site: A List Apart
