@@ -1,9 +1,13 @@
 .c-resource {
-	background: #fff;
-	padding: 1em;
 	font-size: 1.2em;
+	padding: 0 .5em 1em;
 
 	a {
+		border-radius: .1em;
+		display: block;
 		color: $color-text;
+		padding: 1em;
+		background: #fff;
+		box-shadow: 0 1px #CCC;
 	}
 }
