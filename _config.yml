@@ -20,6 +20,9 @@ navigation:
  - title: Guidelines
    url: /guidelines/
    desc: ""
+ - title: Talks
+   url: /talks/
+   desc: "" 
  - title: Other
    url: /others/
    desc: ""
@@ -31,6 +34,7 @@ collections:
   - resourceexample
   - resourcetool
   - resourceguideline
+  - resourcetalk
   - resourceother
 
 # Build settings

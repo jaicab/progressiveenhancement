@@ -15,6 +15,7 @@ Easiest way is to use the web interface. Copy [this pattern](https://raw.githubu
 - [Example](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourceexample): For tutorials/code samples/specific articles applied to a pattern where PE was applied.
 - [Tool](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourcetool): A tool/service that helped you enhance the experience or that it's built with that foundation.
 - [Guideline](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourceguideline): A set of rules that define how to approach work with PE, maybe from a company or a person's site.
+- [Talk](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourcetalk): Videos of talks about progressive enhancement.
 - [Other](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourceother): Anything that doesn't apply to the others. Books, podcasts, etc. 
 
 I will try to go through some PRs while at the conference!
