@@ -19,7 +19,7 @@ title: Talks
 
 
 		{% if item.conference %}
-			on <strong>{{ item.conference }}</strong>
+			at <strong>{{ item.conference }}</strong>
 		{% endif %}
 	</a>
 </li>
