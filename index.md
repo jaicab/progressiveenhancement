@@ -7,7 +7,7 @@ If you have any resources that you have found insteresting related with **progre
 
 I want this to be the place where people go to learn about progressive enhancement. For now categories are articles, examples, tools, and guidelines, but this could change. A few days after [#enhanceconf](https://twitter.com/hashtag/EnhanceConf?src=hash&lang=es) I will process the data, and PRs sent categorise it and redesign the site (this is just a placeholder).
 
-You can also create new files as PRs on GitHub and therefore get proper credit for your help. Follow [this pattern](https://raw.githubusercontent.com/jaicab/progressiveenhancement/gh-pages/_resourcearticle/example.md) (site is optional) and then click on one of these links create:
+You can also create new files as PRs on GitHub and therefore get [proper credit](https://github.com/jaicab/progressiveenhancement/graphs/contributors) for your help. Follow [this pattern](https://raw.githubusercontent.com/jaicab/progressiveenhancement/gh-pages/_resourcearticle/example.md) (site is optional) and then click on one of these links create:
 
 - [Article](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourcearticle): For articles that talk about progressive enhancement, the good and the bad.
 - [Example](https://github.com/jaicab/progressiveenhancement/new/gh-pages/_resourceexample): For tutorials/code samples/specific articles applied to a pattern where PE was applied.

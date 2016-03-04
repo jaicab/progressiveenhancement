@@ -5,7 +5,7 @@ If you have any resources that you have found insteresting related with **progre
 
 I want this to be the place where people go to learn about progressive enhancement. For now categories are articles, examples, tools, and guidelines, but this could change. After [#enhanceconf](https://twitter.com/hashtag/EnhanceConf?src=hash&lang=es) I will process the data and PRs sent, recategorise it and redesign the site (this is just a placeholder).
 
-You can also create new files as PRs on GitHub and therefore get proper credit for your help. This is the pattern for a single resource.
+You can also create new files as PRs on GitHub and therefore get [proper credit](https://github.com/jaicab/progressiveenhancement/graphs/contributors) for your help. This is the pattern for a single resource.
 
 ```
 ---
