@@ -1,5 +1,5 @@
 ---
-title: Adaptive Web Design: Crafting Rich Experiences With Progressive Enhancement
+title: Adaptive Web Design - Crafting Rich Experiences With Progressive Enhancement
 link: http://www.zeldman.com/2015/12/04/progressive-enhancement-ftw-bigwebshow/
 author: Aaron Gustafson
 site: A List Apart
