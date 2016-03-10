@@ -13,11 +13,7 @@ title: Examples
 		{{ item.content }}
 	
 		By <strong>
-		{% if item.site %}
-			<a href="{{ item.site }}">{{ item.author }}</a>
-		{% else %}
-			{{ item.author }}
-		{% endif %}
+		{{ item.author }}
 		</strong>
 
 
