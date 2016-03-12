@@ -4,5 +4,26 @@
 }
 
 .l-footer--main {
-	
+	padding: 1em 2em;
+
+	a {
+		color: $color-bg-header;
+    	text-decoration: underline;
+	}
+}
+
+.l-footer--main__container {
+	font-size: 1.2em;
+	padding-bottom: 1em;
+}
+
+@include mq($from: medium) {
+	.l-footer--main__container {
+		float: left; 
+		width: 50%;
+
+		&:nth-child(2) {
+			text-align: right;
+		}
+	}
 }
