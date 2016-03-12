@@ -13,9 +13,15 @@
     <![endif]-->
 
     <title>
-    {% if page.microtitle %}{{ page.microtitle }} | {{ site.title }}
-    {% elsif page.title %}{{ page.title }} | {{ site.title }}
-    {% else %}{{ site.title }}{% endif %}
+    {% if page.url == "/index.html" %}
+        {{ site.title }}
+    {% elsif page.microtitle %}
+        {{ page.microtitle }} | {{ site.title }}
+    {% elsif page.title %}
+        {{ page.title }} | {{ site.title }}
+    {% else %}
+        {{ site.title }}
+    {% endif %}
     </title>
 
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
