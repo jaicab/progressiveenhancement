@@ -1,4 +1,4 @@
-# Progressive Enhancement.
+# Progressive Enhancement [![Build Status](https://travis-ci.org/jaicab/progressiveenhancement.svg?branch=master)](https://travis-ci.org/jaicab/progressiveenhancement)
 A site for all things progressively enhanced. - [https://progressiveenhancement.org](https://progressiveenhancement.org)
 
 I want this to be the place where people go to learn about progressive enhancement. For now categories are articles, examples, tools, talks and guidelines, but this could change. Once we have gathered enough resources, I will process the data and PRs sent, (probably) recategorise them and redesign the site (this is just a placeholder).
