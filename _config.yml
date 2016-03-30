@@ -41,6 +41,7 @@ collections:
 permalink: pretty
 exclude:
   - README.md
+  - vendor
 
 
 #Gems
